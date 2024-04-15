@@ -9,7 +9,7 @@
 Для запуску проекту потрібно:
 
 - Node.js (рекомендована версія 14.x або вище)
-- BACKEND - [dou-parser-api](URL)
+- BACKEND - [dou-parser-api](https://github.com/RuslanKudlay/dou-parser)
 
 ## Встановлення
 
